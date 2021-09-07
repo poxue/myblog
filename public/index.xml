@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 10:15:44 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Sep 2021 23:52:39 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hive</title>
+      <link>/posts/hive/</link>
+      <pubDate>Tue, 07 Sep 2021 23:52:39 +0800</pubDate>
+      
+      <guid>/posts/hive/</guid>
+      <description>到今天使用hive的社群已經一個多月了賺到了一些錢現在就在想要怎麼換成台幣,只是覺得離平均每天要4個hive好難喔,誰知道要怎麼寫文章才會有人要看也許可以試試看拍影片</description>
+    </item>
+    
     <item>
       <title>Hugo使用日記</title>
       <link>/posts/hugo%E4%BD%BF%E7%94%A8%E6%97%A5%E8%A8%98/</link>
