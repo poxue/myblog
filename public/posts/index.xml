@@ -6,8 +6,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Tue, 07 Sep 2021 23:52:39 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 08 Sep 2021 22:41:10 +0800</lastBuildDate>
         <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>業績</title>
+            <link>/posts/%E6%A5%AD%E7%B8%BE/</link>
+            <pubDate>Wed, 08 Sep 2021 22:41:10 +0800</pubDate>
+            
+            <guid>/posts/%E6%A5%AD%E7%B8%BE/</guid>
+            <description>今天是業績最後一天但是我的業績依然沒有達到目標，到底問題在哪裡是我說服能力不夠還是有什麽技巧沒有學好。</description>
+            <content type="html"><![CDATA[<p>今天是業績最後一天但是我的業績依然沒有達到目標，到底問題在哪裡是我說服能力不夠還是有什麽技巧沒有學好。</p>
+<p><img src="https://images.pexels.com/photos/3414766/pexels-photo-3414766.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=3&amp;h=750&amp;w=1260" alt="傷心"></p>
+]]></content>
+        </item>
         
         <item>
             <title>Hive</title>
