@@ -9,6 +9,9 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: now
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
