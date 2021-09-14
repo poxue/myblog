@@ -12,6 +12,7 @@ fields:
   default: now
   config:
     required: true
+    display_utc: true
 - type: list
   name: tags
   label: tags
