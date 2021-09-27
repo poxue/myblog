@@ -18,6 +18,7 @@ fields:
   label: tags
 pages:
 - content/posts/costco.md
+- content/posts/hive-1.md
 - content/posts/值日生.md
 - content/posts/客群.md
 - content/posts/散步.md
